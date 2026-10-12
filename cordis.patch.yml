@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-deploy-nginx
+      name: dsh-deploy-nginx
